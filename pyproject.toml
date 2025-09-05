@@ -1,0 +1,16 @@
+
+---
+
+## `pyproject.toml`
+
+```toml
+[project]
+name = "ugnn"
+version = "0.1.0"
+description = "Unified GNN for heterogeneous models"
+requires-python = ">=3.9"
+dependencies = []
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"

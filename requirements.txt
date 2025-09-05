@@ -1,0 +1,11 @@
+torch>=2.1
+torchvision>=0.16
+torch-geometric>=2.5
+networkx>=3.2
+numpy>=1.26
+scikit-learn>=1.4
+tqdm>=4.66
+matplotlib>=3.8
+medmnist>=2.2.2
+psutil>=5.9
+pyyaml>=6.0
