@@ -1,4 +1,4 @@
-# UnifiedFL: A Dynamic Unified Federated Learning Framework for Equitable Healthcare AI
+# UnifiedFL: A Dynamic Unified Federated Learning Framework for Equitable AI
 
 ## Overview
 
